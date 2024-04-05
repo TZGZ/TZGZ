@@ -1,4 +1,4 @@
-# Bienvenido/a a mi perfil de GitHub! 👋
+# Bienvenid@ a mi perfil de GitHub! 👋
 
 <p align="center">
   <img src="github_100.png" alt="Hello!">
