@@ -1,6 +1,6 @@
 # Bienvenido/a a mi perfil de GitHub! 👋
 
-![Hello!]()
+![Hello!](github-approved-security-key-while-ssh-featured.png)
 
 Mi nombre es TZGZ. ¡Gracias por visitar mi perfil!
 
