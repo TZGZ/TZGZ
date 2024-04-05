@@ -1,6 +1,9 @@
 # Bienvenido/a a mi perfil de GitHub! 👋
 
-![Hello!](github_PNG45.png).
+<p align="center">
+  <img src="github_100.png" alt="Hello!">
+</p>
+
 
 Mi nombre es TZGZ. ¡Gracias por visitar mi perfil!
 
