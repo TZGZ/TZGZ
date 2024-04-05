@@ -1,6 +1,6 @@
 # Bienvenido/a a mi perfil de GitHub! 👋
 
-![Hello!](github-approved-security-key-while-ssh-featured.png)
+![Hello!](OIP.jpeg).
 
 Mi nombre es TZGZ. ¡Gracias por visitar mi perfil!
 
@@ -24,3 +24,5 @@ Aquí presento algunos de mis últimos logros y hitos:
 - Participación como ponente en una conferencia sobre inteligencia artificial.
 
 ¡Estoy emocionado/a por seguir creciendo y contribuyendo al mundo de la tecnología! 😊
+
+![Hello!](github-approved-security-key-while-ssh-featured.png)
