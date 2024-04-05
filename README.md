@@ -1,25 +1,26 @@
-- 👋 Hi, I’m @TZGZ
--                              \\\\\\\
-                            \\\\\\\\\\\\
-                          \\\\\\\\\\\\\\\
- -----------,-|           |C>   // )\\\\|
-           ,','|          /    || ,'/////|
----------,','  |         (,    ||   /////
-         ||    |          \\  ||||//''''|
-         ||    |           |||||||     _|
-         ||    |______      `````\____/ \
-         ||    |     ,|         _/_____/ \
-         ||  ,'    ,' |        /          |
-         ||,'    ,'   |       |         \  |
-_________|/    ,'     |      /           | |
-_____________,'      ,',_____|      |    | |
-             |     ,','      |      |    | |
-             |   ,','    ____|_____/    /  |
-             | ,','  __/ |             /   |
-_____________|','   ///_/-------------/   |
-              |==========='
+# Bienvenido/a a mi perfil de GitHub! 👋
 
-<!---
-TZGZ/TZGZ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Hello!](https://i.imgur.com/yXvQw5p.png)
+
+Mi nombre es TZGZ. ¡Gracias por visitar mi perfil!
+
+## Sobre mí
+
+Soy un entusiasta de la programación con experiencia en diversas tecnologías y lenguajes de programación. 
+Disfruto resolviendo problemas y aprendiendo cosas nuevas en el mundo de la tecnología.
+
+## Mis intereses
+
+- Desarrollo de software
+- Programación en C++, Python, y más
+- Aprendizaje automático (Machine Learning)
+- Desarrollo web
+
+## Últimos Logros
+
+Aquí presento algunos de mis últimos logros y hitos:
+
+- Obtención de una certificación en CISCO Networking Academy.
+- Participación como ponente en una conferencia sobre inteligencia artificial.
+
+¡Estoy emocionado/a por seguir creciendo y contribuyendo al mundo de la tecnología! 😊
